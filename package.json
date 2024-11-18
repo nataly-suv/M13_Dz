@@ -1,0 +1,17 @@
+{
+  "name": "m13_dz",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha tests/**/*.test.js"
+  },
+  "author": "Nata",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^10.8.2",
+    "sinon": "^19.0.2"
+  }
+}
